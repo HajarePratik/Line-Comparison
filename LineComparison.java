@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class LineComparison
 {
 	public static void main(String args[])
@@ -38,7 +39,7 @@ public class LineComparison
 		}
 		else if(LengthofLine1 > LengthofLine2)
 		{
-			System.out.println("LengthofLine1 is Greater than LengthofLine2);
+			System.out.println("LengthofLine1 is Greater than LengthofLine2");
 		}
 		else 
 		{
